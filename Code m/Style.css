@@ -4,14 +4,18 @@ body{
 }
 
 body {
-    background-image: url("Hobbies Bg.jpg");
-    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
+
+
   }
 .button{
   transition: tranform .4s;
   align-self: center;
+  float: left;
+
+  
 }
 .button:hover{
-  transform:scale(.5);
+  transform:scale(1.2);
 }

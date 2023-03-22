@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+img{
+    border-radius: 50%;
+    border: 2px solid;
+}
+.bar{
+    margin-right: 40%;
+    float: right;
+    font-style: italic;
+    
+    
+}
+.name{
+    align-self: center;
+    margin-left: 31%;
+    font-weight: bolder;
+    
+}
+

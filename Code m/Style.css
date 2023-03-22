@@ -1,0 +1,17 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+    background-image: url("Hobbies Bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.button{
+  transition: tranform .4s;
+  align-self: center;
+}
+.button:hover{
+  transform:scale(.5);
+}
